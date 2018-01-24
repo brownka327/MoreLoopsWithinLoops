@@ -53,6 +53,7 @@ def draw_upside_down_wall(rectangle, n, window):
     #     Some tests are already written for you (above).
     # ------------------------------------------------------------------\
 
+'''
     corner1_O = rectangle.corner_1
     corner2_O = rectangle.corner_2
     corner1 = corner1_O
@@ -79,6 +80,10 @@ def draw_upside_down_wall(rectangle, n, window):
         corner2_O.x = corner1.x + length
         corner1 = corner1_O
         corner2 = corner2_O
+'''
+
+
+
 
 
 
